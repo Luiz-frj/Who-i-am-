@@ -8,7 +8,7 @@ Apaixonado por tecnologia, estou em constante busca por aprendizado e cresciment
 
 ## 📞 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/luiz-francisco-rodrigues-junior-a36711265/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-francisco-rodrigues-junior-a36711265/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfrancisco12@gmail.com)
 
 ---
